@@ -24,10 +24,10 @@ We model “reality” as a continuous rotation (a phasor). What humans perceive
   `$
 
   | Residual $\omega_{\text{app}}$ | Direction |
-  |---:|:---|
-  | $>0$ | Forward |
-  | $=0$ | Pause |
-  | $<0$ | Reverse |
+  | -----------------------------: | :-------- |
+  |                           $>0$ | Forward   |
+  |                           $=0$ | Pause     |
+  |                           $<0$ | Reverse   |
 
 - **Flicker (tempo jitter)**
 
@@ -39,5 +39,10 @@ We model “reality” as a continuous rotation (a phasor). What humans perceive
 
   $nT_L = mT_D$  (rational ratio ⇒ periodic overlaps)
 
-  ![L/D coincidence by common multiples](/fig_LD_coincidence.svg)
-  *fig.1: L/D coincidence by common multiples*
+  <br>
+
+  <p style="text-align:center">
+  <img src="./fig_LD_coincidence.svg" alt="L/D coincidence by common multiples"></p>
+  <p style="text-align:center; font-style:italic">
+  fig.1: Life/Death coincidence by common multiples
+  </p>
