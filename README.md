@@ -4,13 +4,12 @@
 We model “reality” as a continuous rotation (a phasor). What humans perceive as life and death are stroboscopic views through different slit tempos. The apparent direction and speed of time (forward / pause / reverse) emerge from aliasing between the world’s rotation and the observer’s sampling tempo, with tiny jitter producing boundary flips (“near-death” moments).
 
 ## Core
-- **Origin World**: continuous rotation at angular speed \( \omega_0 \).
-- **View**: equally spaced “zoetrope slits” at period \( T \) (life: \(T_L\), death: \(T_D\)).
-- **Apparent time**: \( \omega_{\text{app}}=\omega_0-k\,\Omega \), \( \Omega=\tfrac{2\pi}{T} \), where \(k\) is the nearest integer.  
-  Sign(\(\omega_{\text{app}}\)) ⇒ Forward / Pause / Reverse.
+- **Origin World**: continuous rotation at angular speed $\omega_0$.
+- **View**: equally spaced “zoetrope slits” at period $T$ (life: $T_L$, death: $T_D$).
+- **Apparent time**: $\omega_{\text{app}}=\omega_0-k\,\Omega$, $\Omega=\tfrac{2\pi}{T}$, where $k$ is the nearest integer.  
+  Sign($\omega_{\text{app}}$) ⇒ Forward / Pause / Reverse.
 
 ## Equations
-(kept minimal; see below)
 
 - **Zoetrope slit (Dirac comb)**
 
