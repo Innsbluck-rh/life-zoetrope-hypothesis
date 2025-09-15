@@ -43,8 +43,8 @@ We model “reality” as a continuous rotation (a phasor). What humans perceive
 
   <br>
 
-  <div style="text-align: center;">
+  <div style="text-align: center;" align="center">
   <img src="./fig_LD_coincidence.svg" alt="L/D coincidence by common multiples"></p>
-  
+
   *fig.1: Life/Death coincidence by common multiples*
   </div>
