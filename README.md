@@ -39,15 +39,5 @@ We model “reality” as a continuous rotation (a phasor). What humans perceive
 
   $nT_L = mT_D$  (rational ratio ⇒ periodic overlaps)
 
-<!--
-## Phenomena cheat-sheet
-- **Three phases**: forward / pause / reverse are aliasing outcomes, not metaphysics.
-- **Boundary flip**: small jitter near synchrony pushes \(\omega_{\text{app}}\) across zero.
-- **Rational ratio** \(T_L/T_D=p/q\): recurrent “same-frame” moments (easy cross-talk).
-- **Irrational ratio**: no exact coincidence; crossings are effectively never.
-
-## Conventions
-- Orientation (clockwise/counter-clockwise) is a sign convention only.  
-- \(k=\mathrm{round}(\omega_0/\Omega)\) (nearest-integer branch).  
-- Keep figures monochrome; annotate pages with `life T_L`, `death T_D`, `jitter ±%`.
--->
+  ![L/D coincidence by common multiples](/fig_LD_coincidence.svg)
+  *fig.1: L/D coincidence by common multiples*
